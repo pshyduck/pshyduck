@@ -12,9 +12,7 @@
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pshyduck/count.svg" alt="Visitor's Count" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4493F8&height=100&section=header" />
 
 <hr>
 
@@ -58,6 +56,18 @@
 
 <div align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=pshyduck&theme=transparent&border_radius=10&locale=en" alt="Streak Stats" />
+</div>
+
+<hr>
+
+### 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pshyduck/pshyduck/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pshyduck/pshyduck/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pshyduck/pshyduck/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <p align="center"><i>Based in Hungary 🇭🇺 — working with clients locally and remotely.</i></p>
