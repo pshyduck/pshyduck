@@ -10,8 +10,8 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://wa.me/36205600113" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-pshyduck__13-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4493F8&height=100&section=header" />
