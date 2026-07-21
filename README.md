@@ -10,9 +10,13 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/YOUR_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4493F8&height=100&section=header" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=50&lines=%24+whoami;david+%40+freelance-dev;%24+status+--available" />
+</div>
 
 <hr>
 
@@ -50,12 +54,12 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pshyduck&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshyduck&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pshyduck&count_private=true&show_icons=true&rank_icon=github&locale=en&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF&icon_color=39FF14" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshyduck&layout=donut&hide=css&langs_count=8&show_icons=true&locale=en&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=pshyduck&theme=transparent&border_radius=10&locale=en" alt="Streak Stats" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=pshyduck&locale=en&border_radius=10&background=000000&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=000000" alt="Streak Stats" />
 </div>
 
 <hr>
@@ -71,3 +75,4 @@
 </div>
 
 <p align="center"><i>Based in Hungary 🇭🇺 — working with clients locally and remotely.</i></p>
+
