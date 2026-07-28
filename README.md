@@ -26,7 +26,7 @@
 
 ### Currently
 
-- 🎓 Studying for my advanced-level informatics exam
+- 🎓 I am currently enrolled in higher education
 - 💼 Open to new freelance clients — web shops & mobile apps
 - 🧠 Exploring neural networks as a side interest
 - 💬 Ask me about **Next.js, Laravel, React Native/Expo** — or [anything here](https://github.com/pshyduck/pshyduck/issues)
