@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Helvetica&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&duration=3500&lines=imagine.+build.+enjoy+%3A);Hi+there%2C+I'm+David+%F0%9F%91%8B;ambrusoft.eu" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Helvetica&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&duration=3500&lines=imagine.+build.+enjoy+%3A);ambrusoft.eu" />
 </h1>
 
 <p align="center">
