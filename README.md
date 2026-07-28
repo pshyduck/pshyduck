@@ -61,16 +61,6 @@ A fully custom-built perfume web shop with Barion payments and automatic Billing
 
 <hr style="border-color:#34D399">
 
-### My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pshyduck/pshyduck/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pshyduck/pshyduck/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pshyduck/pshyduck/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
 <p align="center"><i>Based in Hungary 🇭🇺 — working with clients locally and remotely.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=80&section=footer" />
